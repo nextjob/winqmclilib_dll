@@ -1,3 +1,5 @@
+winqmclilib.dll
+===============
 18Dec23 this build now includes:
  * QMCallx
  * QMClose
